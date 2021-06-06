@@ -1,0 +1,13 @@
+/* DEPRECATED */
+/* This file was the original one but now is not being used.
+   Now we use SectionCard.module.css instead of this file */
+.SectionCard {
+  display: inline-block;
+  width: 200px;
+  margin: 10px;
+  padding: 10px;
+  color: black;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px #ccc;
+  text-decoration: none;
+}
