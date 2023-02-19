@@ -4,7 +4,8 @@ Code for a static web page of recipes, developed with React - 2021
 
 # Motivation
 
-I wanted to create a basic site with the main concepts of React (import of basic libraries, organization of files and directories, management of props and state, stateless and stateful components). Here Mr Chef Panda was born and gave us an SPA web page to learn about some recipes. You can like them and select which one you'd like to check out.
+I wanted to create a basic site with the main concepts of React (import of basic libraries, organization of files and directories, management of props and state (this.useState), stateless and stateful components, lifecycle methods). 
+Here Mr Chef Panda was born and gave us an SPA web page to learn about some recipes. You can like them and select which one you'd like to check out.
 
 **You can check it working in my Code-pen**: there's no code-pen page available yet.
 
